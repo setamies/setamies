@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+If there's something my friends and family know me for, it's my tendency to get deeply obsessed about all kinds of topics, then bombard people with information about them. Five years ago, one blockchain and Web3 became some of these obsessions. I am particularly interested about decentralized finance, transaction systems, and blockchain solutions for authentication (medicine, for instance).  
+
+
+
 <!--
 **setamies/setamies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
