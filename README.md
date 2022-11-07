@@ -3,6 +3,8 @@
 <h1>Hi there, I'm Lauri</h1>
 <h3>A Web3 developer particularly interested about DeFi</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🌱 I’m currently learning Solidity
 - 👯 I’m looking to collaborate on anything DeFi related
 
