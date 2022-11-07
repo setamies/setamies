@@ -1,7 +1,11 @@
 
 
-<h1 align="center">Hi 👋, I'm setamies</h1>
-<h3 align="center">A Web3 developer particularly interested about DeFi</h3>
+<h1>Hi there, I'm Lauri</h1>
+<h3>A Web3 developer particularly interested about DeFi</h3>
+
+- 🌱 I’m currently learning Solidity
+- 👯 I’m looking to collaborate on anything DeFi related
+
 
 
 <h3 align="left">Languages and Tools:</h3>
