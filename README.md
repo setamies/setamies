@@ -1,7 +1,7 @@
 
 
 <h1>Hi there, I'm Lauri</h1>
-<h3>A Web3 developer particularly interested about DeFi</h3>
+<h3>A Web3 developer interested about DeFi, transaction systems, and blockchain in supply chains</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
